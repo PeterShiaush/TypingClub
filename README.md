@@ -12,6 +12,6 @@
 * 計算成績
 ----------
 * 在你的 github 建立 new repository: TypingClub
-* Colab 儲存，再"在GitHub中儲存副本"
+* Colab 儲存，再"在GitHub中儲存副本"，上傳到 github建立的 TypingClub
 -----
 * 按照 google ClassRoom 的作業規定內容，繳交一頁學習心得 PDF or JPG
